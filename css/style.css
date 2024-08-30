@@ -8490,7 +8490,7 @@ h1, h2, h3, h4, h5,
             transform: skewX(-20deg); }
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-third {
-              width: 100%;
+              width: 0%;
               z-index: 0; }
               .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
                 opacity: .3; }
